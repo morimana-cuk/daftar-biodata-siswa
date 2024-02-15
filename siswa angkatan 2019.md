@@ -12,7 +12,6 @@
    TTL    : Samarinda, 02 Juni 2003
    Alamat : Jln. Bantuas RT.01 No.18
  <br>
- 
 3. Nama   : Indah Istiqomah
    NIM    : H2020000003
    JK     : Perempuan
@@ -20,7 +19,6 @@
    TTL    : Samarinda, 22 Desember 2002
    Alamat : Jln. Keledang RT.13 No.26
  <br>
- 
 4. Nama   : Ilham ILyas
    NIM    : H2020000004
    JK     : Laki - Laki
@@ -28,7 +26,6 @@
    TTL    : Pinrang, 10 Maret 2003
    Alamat : Jln. Mangkupalas RT.07 No.12
  <br>
- 
 5. Nama   : data 5
    NIM    : H2020000005
    JK     : Laki - Laki
